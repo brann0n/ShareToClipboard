@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareToClipboard.Library", "ShareToClipboard.Library\ShareToClipboard.Library.csproj", "{C4958B5F-5A18-4F08-A759-32392067D628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4958B5F-5A18-4F08-A759-32392067D628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4958B5F-5A18-4F08-A759-32392067D628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4958B5F-5A18-4F08-A759-32392067D628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4958B5F-5A18-4F08-A759-32392067D628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FE7254-1FA1-4443-ADF0-8F140A3D5987}
+	EndGlobalSection
+EndGlobal
